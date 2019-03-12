@@ -106,3 +106,5 @@ We are now ready to deploy the app.
 ```
 now
 ```
+
+You can access the deploy of this site over [here](https://nextjswilliamdecourty.now.sh/) on now's deployment plan.
